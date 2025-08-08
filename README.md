@@ -13,6 +13,7 @@ Os conteúdos estão organizados em três módulos, cada um abordando tópicos e
 
 - Python
 - Jupyter Notebooks
+- PowerBi
 - Bibliotecas: pandas, numpy, matplotlib, scikit-leanr, Pytorch, Tensorflow, Keras, entre outras.
 
 ## Fique a vontade para clonar este repositório
